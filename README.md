@@ -65,7 +65,7 @@ iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
 
 * Silent Hill Texture Explorer (SH2-3) by John_Modest<br />
 此工具可以导出游戏中的大部分贴图，用来汉化游戏中的地图/艺术字等等。
- <br />
+<br /><br />
  
 ### 其他语言本地化补丁
 
@@ -74,7 +74,7 @@ iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
 * 阿拉伯语
 
 我会把这些本地化补丁一并打包在工具合集里，以便大家参考。
- <br />
+<br /><br />
 
 
 ### 原版/破解版sh2pc.exe
