@@ -48,16 +48,16 @@ iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
 * DX8 to DX9 convertor v0.035 / Texmod<br />
 搭配这两样工具，可以实现导出游戏中的各种贴图。这里主要目的是为了修改测试文本贴图。
 
-1. 将DX8 to DX9 convertor中的文件放入游戏根目录，以便运行只支持DX9游戏的Texmod；
+1. 将DX8 to DX9 convertor中的文件放入游戏根目录，以便运行只支持DX9游戏的Texmod；<br />
 可能会出现的bug：播放CG影片时RGB出错。
 
 2. 打开与设置Texmod，通过Texmod运行游戏，导出游戏贴图；
 3. 修改贴图，制作/使用贴图包；
-4. 再次用Texmod运行游戏，测试。
+4. 再次用Texmod运行游戏，测试。<br />
 此工具的缺点是游戏要在Texmod的环境下运行，所以这里只当做测试用。
 
 * SH234 Font Extractor by belek666<br />
-每次从sh2pc.exe中导出一个字符，输出格式为tga贴图。
+每次从sh2pc.exe中导出一个字符，输出格式为tga贴图。<br />
 不确定对汉化有任何帮助。我已经将可导出的字符全部导出，放在了这个工具的根目录。
  <br />
  
@@ -72,16 +72,16 @@ iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
 * 俄语
 * 波兰语
 * 阿拉伯语
-
+<br />
 我会把这些本地化补丁一并打包在工具合集里，以便大家参考。
  <br />
- 
+ <br />
 ### 原版/破解版sh2pc.exe
 包含美版/欧版原版与未破解的sh2pc.exe文件。
 美版：v1.0，v1.1，导演剪辑版
 欧版：v1.0，v1.1，导演剪辑版
  <br />
- 
+ <br />
 ### .mes文件包
 
 导出自PS2游戏镜像，Silent Hill 2: Director's Cut (SLES-51156, v1.02)，作为汉化备份。<br />
