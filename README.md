@@ -19,7 +19,8 @@
  
 * iso extract / xdecompress<br />
 iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
-资源导出后，需要通过xdecompress对游戏资源进行解压，之后方可查看。
+资源导出后，需要通过xdecompress.exe对游戏资源进行解压后才可以查看。<br />
+小tip：比如想要导出sh2_360\data\pic\font下的font000.tex，可以在解压时把.tex改成.dds，这样就可以直接用任何dds贴图查看器打开这张贴图了。
  <br />
  
 ### 文本工具
@@ -29,7 +30,7 @@ iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
  
  使用说明（关于本工具的详细的说明在[这里](http://hometown.sh/forum/viewtopic.php?f=2&t=7996)）<br /><br />
 ![alt text](https://raw.githubusercontent.com/lakeviewhotel/SH2/master/ultiMES%20screenshot.jpg)<br />
-1. 将任何.mes文件放入**src**文件夹;
+1. 将.mes文件放入**src**文件夹；
 2. 点击**导出**按钮；
 3. 被导出的文本会在**txt**文件夹中生成文本文件；
 4. 修改保存好文本后，按**导入**按钮；
