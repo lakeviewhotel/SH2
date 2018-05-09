@@ -17,9 +17,9 @@
 * sh2ex by Nisto<br />
 导出**PS2**镜像中的游戏资源。使用说明请至[此处](https://github.com/Nisto/sh2ex)。
  
-* iso extract / xdecompress<br />
+* iso extract / xbdecompress<br />
 iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
-资源导出后，需要通过xdecompress.exe对游戏资源进行解压后才可以查看。<br />
+资源导出后，需要通过xbdecompress.exe对游戏资源进行解压后才可以查看。<br />
 小tip：比如想要导出sh2_360\data\pic\font下的font000.tex，可以在解压时把.tex改成.dds，这样就可以直接用任何dds贴图查看器打开这张贴图了。
  <br />
  
@@ -28,7 +28,7 @@ iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
 * Ultimate SH-MES Recompilator by WarMaker<br />
  导出/编辑/导入 .mes文本文件。
  
- 使用说明（关于本工具的详细的说明在[这里](http://hometown.sh/forum/viewtopic.php?f=2&t=7996)）<br /><br />
+ 使用说明（关于本工具的详细说明在[这里](http://hometown.sh/forum/viewtopic.php?f=2&t=7996)）<br /><br />
 ![alt text](https://raw.githubusercontent.com/lakeviewhotel/SH2/master/ultiMES%20screenshot.jpg)<br />
 1. 将.mes文件放入**src**文件夹；
 2. 点击**导出**按钮；
