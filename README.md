@@ -34,5 +34,4 @@ iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
 3. 被导出的文本会在**txt**文件夹中生成文本文件；<br />
 4. 修改保存好文本后，按**导入**按钮；<br />
 5. 在**dst**文件夹中找到新的.mes文件。<br /><br />
-
-关于本工具的详细的说明在[这里](http://hometown.sh/forum/viewtopic.php?f=2&t=7996)。
+另外，关于本工具的详细的说明在[这里](http://hometown.sh/forum/viewtopic.php?f=2&t=7996)。
