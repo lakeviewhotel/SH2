@@ -1,2 +1,5 @@
-# SH2
-Silent Hill 2 localization
+# SH2tools
+以下工具均已上传至百度盘。
+
+#mes导出/导入：
+sh234font
