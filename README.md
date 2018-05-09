@@ -11,20 +11,20 @@ XBOX360: Silent Hill HD Collection (Japan)<br />
 
 ### 游戏镜像破解工具（可选）
 
- * sh2ex by Nisto
+* sh2ex by Nisto
  导出**PS2**镜像中的游戏资源。使用说明请至[此处](https://github.com/Nisto/sh2ex)。
  
- * iso extract / xdecompress
+* iso extract / xdecompress
  iso extract用于导出**XBOX360**镜像中的游戏资源。
  资源导出后，需要通过xdecompress对游戏资源进行解压，之后方可查看。
  
  
 ### 文本部分：.mes相关工具
 
- * Silent Hill Text Converter (SH2 & 4) by Nisto John_Modest
+* Silent Hill Text Converter (SH2 & 4) by Nisto John_Modest
  导出/编辑/导入 .mes文本文件。
  
- * Ultimate SH-MES Recompilator by WarMaker
+* Ultimate SH-MES Recompilator by WarMaker
  导出/编辑/导入 .mes文本文件。使用说明：
  1. 将任何.mes文件放入**src**文件夹;
  2. 点击**导出**按钮；
