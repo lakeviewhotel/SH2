@@ -29,7 +29,6 @@ iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
  
  使用说明（关于本工具的详细的说明在[这里](http://hometown.sh/forum/viewtopic.php?f=2&t=7996)）<br /><br />
 ![alt text](https://raw.githubusercontent.com/lakeviewhotel/SH2/master/ultiMES%20screenshot.jpg)<br />
-
 1. 将任何.mes文件放入**src**文件夹;
 2. 点击**导出**按钮；
 3. 被导出的文本会在**txt**文件夹中生成文本文件；
