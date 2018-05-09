@@ -2,6 +2,7 @@
 Silent Hill 2 Localization
 
 
+
 ### 游戏镜像版本
 
 PC: Silent Hill 2: Director's Cut (Europe)
