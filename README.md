@@ -80,8 +80,8 @@ iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
 
 ### 原版/破解版sh2pc.exe
 包含美版/欧版无修改与破解后的sh2pc.exe文件。 <br />
-美版：v1.0，v1.1，导演剪辑版 <br />
-欧版：v1.0，v1.1，导演剪辑版
+美版：v1.0，v1.1 <br />
+欧版：Director's Cut
  <br /><br />
 
 
