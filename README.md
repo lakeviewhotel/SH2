@@ -6,9 +6,9 @@ Silent Hill 2 Localization
 ### 游戏镜像版本
 
 PC: Silent Hill 2: Director's Cut (Europe)<br />
-PS2: Silent Hill 2: Director's Cut (SLES-51156, v1.02)
-XBOX360: Silent Hill HD Collection (Japan)
-
+PS2: Silent Hill 2: Director's Cut (SLES-51156, v1.02)<br />
+XBOX360: Silent Hill HD Collection (Japan)<br />
+<br />
 
 ### 游戏镜像破解工具（可选）
 
