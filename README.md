@@ -4,9 +4,9 @@
 
 ### 游戏镜像版本
 
-PC: Silent Hill 2: Director's Cut (Europe)<br />
-PS2: Silent Hill 2: Director's Cut (SLES-51156, v1.02)<br />
-XBOX360: Silent Hill HD Collection (Japan)<br />
+* PC: Silent Hill 2: Director's Cut (Europe)<br />
+* PS2: Silent Hill 2: Director's Cut (SLES-51156, v1.02)<br />
+* XBOX360: Silent Hill HD Collection (Japan)<br />
 <br /><br />
 
 ### 游戏镜像破解工具（可选）
