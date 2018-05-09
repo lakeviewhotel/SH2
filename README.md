@@ -27,8 +27,8 @@ iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
 * Ultimate SH-MES Recompilator by WarMaker<br />
  导出/编辑/导入 .mes文本文件。
  
- 使用说明：
- ![alt text](https://raw.githubusercontent.com/lakeviewhotel/SH2/master/ultiMES%20screenshot.jpg)
+ 使用说明：<br />
+![alt text](https://raw.githubusercontent.com/lakeviewhotel/SH2/master/ultiMES%20screenshot.jpg)<br />
 1. 将任何.mes文件放入**src**文件夹;<br />
 2. 点击**导出**按钮；<br />
 3. 被导出的文本会在**txt**文件夹中生成文本文件；<br />
