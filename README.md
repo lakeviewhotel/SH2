@@ -88,7 +88,7 @@ iso extract用于导出**XBOX360**镜像中的游戏资源。<br />
 
 ### .mes文件包
 
-导出自PS2游戏镜像，Silent Hill 2: Director's Cut (SLES-51156, v1.02)，作为汉化备份。<br />
+导出自PS2游戏镜像，Silent Hill 2: Director's Cut (SLES-51156, v1.02)，包含英语、法语、德语、意大利语、西班牙语与日语，作为汉化备份。<br />
 
 
 以上全部工具打包下载：[sh2tools](https://pan.baidu.com/s/1qEMjpkaMAQbyGQONjg40Lw)<br />
