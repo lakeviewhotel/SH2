@@ -3,8 +3,10 @@
 
 ### 目前使用过的游戏镜像版本
 
+* PC: Silent Hill 2 (USA)<br />
 * PC: Silent Hill 2: Director's Cut (Europe)<br />
-* PS2: Silent Hill 2: Director's Cut (SLES-51156, v1.02)<br />
+* PS2: Silent Hill 2: Director's Cut (Europe)<br />
+* PS2: Silent Hill 2: Saigo no Uta (Japan)<br />
 * XBOX360: Silent Hill HD Collection (Japan)<br />
 <br />
 
